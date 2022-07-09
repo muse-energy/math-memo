@@ -10,7 +10,7 @@
     "vuepress-plugin-container": "^2.1.5"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "scr:dev": "vuepress dev scr",
+    "scr:build": "vuepress build scr"
   }
 }
