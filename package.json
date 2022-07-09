@@ -12,5 +12,8 @@
   "scripts": {
     "scr:dev": "vuepress dev scr",
     "scr:build": "vuepress build scr"
+  },
+  "dependencies": {
+    "vuepress-plugin-mathjax": "^1.2.8"
   }
 }
